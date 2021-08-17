@@ -10,6 +10,7 @@ JavaScript<br>
 ## Projects I am working on
 **Tundra** - an efficient Minecraft 1.8 anticheat with robust checks<br>
 **PvP Client** - a currently unnamed PvP client for Minecraft supporting 1.8 and 1.17<br>
+**Practice** - a practice plugin for 1.8 with many features<br>
 
 ## Contact
 You can contact me on Discord, my account is TypicalFin#7941.
