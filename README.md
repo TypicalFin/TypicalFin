@@ -1,4 +1,3 @@
-# Hello
 Professional Jonhan check skid
 
 ## Languages I know
