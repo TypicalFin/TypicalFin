@@ -1,2 +1,2 @@
 ### Hello
-I work on clients and anticheats in my spare time.
+I work on Minecraft client and anticheat software in my spare time.
